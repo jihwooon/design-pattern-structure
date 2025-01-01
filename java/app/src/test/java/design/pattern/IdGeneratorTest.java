@@ -2,6 +2,7 @@ package design.pattern;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+import design.pattern.singleton.IdGenerator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
